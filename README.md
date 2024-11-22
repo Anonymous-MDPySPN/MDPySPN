@@ -20,7 +20,7 @@ python3 examples/Main.py  # 3. Run the code
 
 ## Modeling
 
-Formally, the class of SPNs that can be modeled using *PySPN* is defined as:
+Formally, the class of SPNs that can be modeled using *MDPySPN* is defined as:
 
 $$SPN = (P, T, A, G, m_0)$$
 
@@ -171,13 +171,10 @@ spn.report_places()
 ```
 
 ## Usage & Attribution
-
-If you are using the tool for a scientific project please consider citing our [publication](https://www.researchgate.net/publication/375758652_PySPN_An_Extendable_Python_Library_for_Modeling_Simulation_of_Stochastic_Petri_Nets):
-
     #  - ...
     @misc{} 
 
-For questions/feedback feel free to contact me: atieh.khodadadi@kit.edu
+For questions/feedback feel free to contact me: -
 
 
  
